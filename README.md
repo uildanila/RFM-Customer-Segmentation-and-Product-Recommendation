@@ -116,5 +116,5 @@ Based on our analysis and modeling, there are several things we could try to inc
 
 - Tuning using different hyperparameter values, to get a better metrics (MAE).
 
-- Use different approach other than RFM, such as Customer Lifetime Value, etc.
+- Use different approach other than RFM, such as Customer Lifetime Value, Customer Churn etc.
 
