@@ -19,7 +19,8 @@ Customer Segmentation is a commonly used term for applying the ‘Know Your Audi
 
 **Problem Statement**
 
-As our customerbase increase, so does our customer variety. Different customer have different needs, comes from different places, and have different interest, just to name a few. Pushing the same business approach or campaigns to all of our customers might not be efficient in terms of human resource, time, and cost. Therefore, we have to categorize them into several segmentation for a more precise and personalized approach.
+Based on the dataset. We found that our customer base increase, so does our customer variety. Different customer have different needs, comes from different places, and have different interest, just to name a few. Pushing the same business approach or campaigns to all of our customers might not be efficient in terms of human resource, time, and cost. But in the reality, mostly customers only order once or twice and after that they didn't active anymore for a long time. Olist eCommerce need to have the capability to categorize the customers into several segmentation, so they can give the attention and offering promos, campaign, cashback, or recommendation to the right customers, so it might be more precise and personalized approach. Furthermore, if we could have the information based on the customer segmentation, we can maintain the customers and increase the loyal customers we have and we can even reduce the number of churn customers
+after we know the characteristic of the certain customers, and create the right actions. So the business will still running and it might be increase the eCommerce's revenue.
 
 <br>
 
@@ -29,7 +30,8 @@ Customer segmentation can be grouped into 3 types i.e. demographic segmentation,
 
 <br>
 
-## **Goal**
+
+**Goal**
 
 In this project we'll try to separate customer into 4 segments using Recency, Frequency, and Monetary (RFM) analysis, and act on a particular group of customer (`Need Attention`) which has great recency score, but low frequency and monetary value. 
 
