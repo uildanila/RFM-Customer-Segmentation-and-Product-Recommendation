@@ -1,5 +1,10 @@
 # TheATeam JCDS Final Project - RFM Segmentation and Product Recommendation
 
+This project is one of the processes of the Purwadhika Digital School Data Science Bootcamp program, and was compiled by the The A team consisting of :
+* Bayu Fathurrahman
+* Giovano Aditya Graha
+* Nila Wildanul Husna
+
 ## **About**
 In this project, we will use [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_products_dataset.csv) from Kaggle. This dataset contains details of more than 100.000 orders from 2016 to 2018, made at multiple marketplaces in Brazil. Its features allows us to analyze order from various dimensions: from order status, price, payment and freight price, to customer's location, product attributes, and reviews written by customers. We also geolocation data available.
 
@@ -53,4 +58,3 @@ Segmentation Details:
 | Casual Customer | Bought most recently, but not often. In medium recency, frequency and monetary values. |
 | Need Attention | Our *relatively* new customer, has the highest recency score but still low on the frequency and monetary value. |
 | About To Sleep - Lost Customer | Lowest recency, frequency and monetary scores. This customer are lost and/ or has never made any transaction in a very long time. |
-# Final-Project-RFM-Customer-Segmentation-and-Product-Recommendation
