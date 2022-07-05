@@ -75,7 +75,6 @@ Segmentation Details:
 
 ---
 
----
 **Recommendation System**
 <br>
 <img width="365" alt="Screenshot 2022-07-05 at 22 23 44" src="https://user-images.githubusercontent.com/73053128/177362786-c69b4271-fe83-407b-84e6-caca42664b9a.png">
