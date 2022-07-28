@@ -1,4 +1,4 @@
-# TheATeam JCDS Final Project - RFM Segmentation and Product Recommendation
+RFM Customer Segmentation and Product Recommendation
 
 <img width="1431" alt="Screenshot 2022-07-05 at 22 39 14" src="https://user-images.githubusercontent.com/73053128/177365589-3ac0a5ff-e994-443a-b4a9-1f1440ef5504.png">
 
